@@ -1,0 +1,80 @@
+Name,League,LeagueId,Overall,Attack,Midfield,Defence
+Arsenal,English Premier League (1),13,79,83,81,77
+Aston Villa,English Premier League (1),13,78,78,76,77
+Brentford,English Premier League (1),13,73,73,74,73
+Brighton & Hove Albion,English Premier League (1),13,76,75,77,75
+Burnley,English Premier League (1),13,76,76,76,77
+Chelsea,English Premier League (1),13,83,84,86,81
+Crystal Palace,English Premier League (1),13,76,77,76,74
+Everton,English Premier League (1),13,79,79,78,79
+Leeds United,English Premier League (1),13,77,78,78,76
+Leicester City,English Premier League (1),13,80,82,81,79
+Liverpool,English Premier League (1),13,84,86,83,85
+Manchester City,English Premier League (1),13,85,85,85,86
+Manchester United,English Premier League (1),13,84,85,84,83
+Newcastle United,English Premier League (1),13,76,79,75,74
+Norwich City,English Premier League (1),13,74,76,74,74
+Southampton,English Premier League (1),13,76,76,77,73
+Tottenham Hotspur,English Premier League (1),13,82,86,80,80
+Watford,English Premier League (1),13,75,74,75,73
+West Ham United,English Premier League (1),13,79,79,79,79
+Wolverhampton Wanderers,English Premier League (1),13,78,78,81,77
+AS Monaco,French Ligue 1 (1),16,78,82,77,77
+AS Saint-Étienne,French Ligue 1 (1),16,73,76,74,72
+Angers SCO,French Ligue 1 (1),16,74,71,72,74
+Clermont Foot 63,French Ligue 1 (1),16,71,71,71,71
+ESTAC Troyes,French Ligue 1 (1),16,72,73,72,70
+FC Girondins de Bordeaux,French Ligue 1 (1),16,74,75,75,71
+FC Lorient,French Ligue 1 (1),16,71,72,72,70
+FC Metz,French Ligue 1 (1),16,73,71,73,74
+FC Nantes,French Ligue 1 (1),16,73,73,72,73
+LOSC Lille,French Ligue 1 (1),16,78,77,79,78
+Montpellier HSC,French Ligue 1 (1),16,74,73,75,72
+OGC Nice,French Ligue 1 (1),16,76,79,75,75
+Olympique Lyonnais,French Ligue 1 (1),16,79,77,79,78
+Olympique de Marseille,French Ligue 1 (1),16,78,80,77,75
+Paris Saint-Germain,French Ligue 1 (1),16,86,89,83,85
+RC Strasbourg Alsace,French Ligue 1 (1),16,74,76,74,72
+Racing Club de Lens,French Ligue 1 (1),16,74,73,75,74
+Stade Brestois 29,French Ligue 1 (1),16,73,73,73,71
+Stade Rennais FC,French Ligue 1 (1),16,76,77,77,75
+Stade de Reims,French Ligue 1 (1),16,73,71,73,74
+1. FC Köln,German 1. Bundesliga (1),19,73,73,74,72
+1. FC Union Berlin,German 1. Bundesliga (1),19,74,77,72,73
+1. FSV Mainz 05,German 1. Bundesliga (1),19,73,71,74,74
+Bayer 04 Leverkusen,German 1. Bundesliga (1),19,78,78,78,76
+Borussia Dortmund,German 1. Bundesliga (1),19,81,84,81,81
+Borussia Mönchengladbach,German 1. Bundesliga (1),19,79,78,79,76
+DSC Arminia Bielefeld,German 1. Bundesliga (1),19,72,71,71,72
+Eintracht Frankfurt,German 1. Bundesliga (1),19,77,76,78,75
+FC Augsburg,German 1. Bundesliga (1),19,74,73,74,74
+FC Bayern München,German 1. Bundesliga (1),19,84,92,85,81
+Hertha BSC,German 1. Bundesliga (1),19,75,74,76,75
+RB Leipzig,German 1. Bundesliga (1),19,80,84,80,79
+SC Freiburg,German 1. Bundesliga (1),19,74,72,73,75
+SpVgg Greuther Fürth,German 1. Bundesliga (1),19,71,72,72,70
+TSG 1899 Hoffenheim,German 1. Bundesliga (1),19,76,76,76,75
+VfB Stuttgart,German 1. Bundesliga (1),19,74,70,73,73
+VfL Bochum 1848,German 1. Bundesliga (1),19,72,69,71,72
+VfL Wolfsburg,German 1. Bundesliga (1),19,78,80,78,77
+Atalanta,Italian Serie A (1),31,80,81,80,78
+Benevento,Italian Serie A (1),31,69,70,68,69
+Bologna,Italian Serie A (1),31,75,77,75,73
+Cagliari,Italian Serie A (1),31,75,76,74,74
+Crotone,Italian Serie A (1),31,67,66,68,66
+Empoli,Italian Serie A (1),31,71,73,69,70
+Fiorentina,Italian Serie A (1),31,76,77,76,74
+Genoa,Italian Serie A (1),31,74,75,72,74
+Hellas Verona,Italian Serie A (1),31,75,75,75,74
+Inter,Italian Serie A (1),31,82,82,81,83
+Juventus,Italian Serie A (1),31,83,82,82,84
+Lazio,Italian Serie A (1),31,80,80,81,79
+Milan,Italian Serie A (1),31,80,81,79,81
+Napoli,Italian Serie A (1),31,80,81,79,81
+Parma,Italian Serie A (1),31,71,72,69,70
+Roma,Italian Serie A (1),31,79,77,79,77
+Sampdoria,Italian Serie A (1),31,75,77,75,73
+Sassuolo,Italian Serie A (1),31,75,74,75,72
+Spezia,Italian Serie A (1),31,71,70,70,67
+Torino,Italian Serie A (1),31,76,76,74,74
+US Salernitana 1919,Italian Serie A (1),31,70,76,68,70
